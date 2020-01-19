@@ -1,0 +1,22 @@
+{
+  "name": "awesome-open-startup",
+  "version": "1.0.0",
+  "description": "A list that curates Startups which operates with full transparency.",
+  "scripts": {
+    "toc": "doctoc README.md --github"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielperales/awesome-open-startups.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielperales/awesome-open-startups/issues"
+  },
+  "homepage": "https://github.com/gabrielperales/awesome-open-startups#readme",
+  "devDependencies": {
+    "doctoc": "^1.4.0"
+  }
+}

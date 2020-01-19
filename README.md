@@ -1,8 +1,21 @@
-# Awesome Open Startups [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-A list that curates Startups which operates with full transparency.
+# Awesome Open Startup [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+A list that gather Startups which operates with full transparency.
+
+
+## Table of contents
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [What is an Open Startup?](#what-is-an-open-startup)
+- [Open Startups](#open-startups)
+- [Related](#related)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## What is an Open Startup?
-The Open Startup is a transparency and opennes movement sharing its metrics, including revenue, users and traffic. It was initiated by Buffer and quicky adopted by Ghost, and recently popularised by the indie maker Pieter Levels.
+The Open Startup is a transparency and opennes movement sharing its metrics, including revenue, users and traffic. It was initiated by [Buffer](https://buffer.com) and quicky adopted by [Ghost](https://ghost.org), and recently popularised by the indie maker [Pieter Levels](https://twitter.com/levelsio).
 
 ## Open Startups
 
@@ -28,3 +41,13 @@ Remote OK       | [remoteok.io](https://remoteok.io)                 | [remoteok
 Scrympy         | [scrumpy.io](https://scrumpy.io)                   | [scrumpy.io/open](https://scrumpy.io/open)
 Simple Analytics| [simpleanalytics.com](https://simpleanalytics.com) | [simpleanalytics.com/open](https://simpleanalytics.com/open)
 Starter Story   | [starterstory.com](https://starterstory.com)       | [starterstory.com/open](https://starterstory.com/open)
+
+
+## Related
+- [Awesome Indie](https://github.com/mezod/awesome-indie): resources for people who wants to make their independent business.
+- [Awesome Open Company](https://github.com/opencompany/awesome-open-company): companies guided by principes of opennes, transparency and interoperability.
+
+## License
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+*This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
