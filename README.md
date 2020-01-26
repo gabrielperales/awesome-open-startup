@@ -26,6 +26,7 @@ Startup         | URL                                                | Open Stat
 Bannerbear      | [www.bannerbear.com](https://www.bannerbear.com)   | [www.bannerbear.com/open](https://www.bannerbear.com/open)
 Blurt           | [blurt.app](https://blurt.app)                     | [blurt.app/open](https://blurt.app/open)
 Buffer          | [buffer.com](https://buffer.com)                   | [dev.buffer.com/transparency](https://dev.buffer.com/transparency)
+Closet Tools    | [closet.tools](https://closet.tools)               | [jdnoc.com/open/](https://jdnoc.com/open/)
 Convertkit      | [convertkit.com](https://convertkit.com)  | [convertkit.baremetrics.com](https://convertkit.baremetrics.com/)
 Failory         | [www.failory.com](https://www.failory.com)         | [www.failory.com/open](https://www.failory.com/open)
 Game Quitters   | [gamequitters.com](https://gamequitters.com)       | [gamequitters.com/open](https://gamequitters.com/open/)
